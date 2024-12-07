@@ -11,7 +11,7 @@ int main()
         cin>>n;
         int arr[n],co=0;
         for(int k=0;k<n;k++)
-        {
+        {    
             cin>>arr[k];// -3 5 -3 1
         }
         for(int k=0;k<n;k++)
